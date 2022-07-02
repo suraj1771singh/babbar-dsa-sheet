@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class OptimApproach {
     public int findKthLargest(int[] arr, int k) {
         int res = 0;
